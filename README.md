@@ -1,4 +1,4 @@
- # Data Anlysis Projects
+ # Data Analysis Projects
  
  1. Heart Disease
- 2. Oonline Store Analysis
+ 2. Online Store Data Analysis
